@@ -6,3 +6,4 @@ I am a Python Developer and a Security Enthusiast, currently working as a `DevSe
 
 * [LinkedIn](https://www.linkedin.com/in/ayushpriya10/)
 * [Twitter](https://twitter.com/ayushpriya10)
+* [Medium](https://medium.com/@ayushpriya10)
