@@ -1,6 +1,6 @@
 ### Hello Friend. 👋
 
-I am a Python Developer and a Security Enthusiast, currently working as a `DevSecOps Engineer` at [Appsecco](https://appsecco.com/).
+I am a Python Developer and a Security Enthusiast, currently working as a `Cloud Security Engineer` at [CRED](https://cred.club/).
 
 💬 Let's talk about Development, Python, Cloud and Security!
 
